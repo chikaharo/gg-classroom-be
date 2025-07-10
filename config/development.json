@@ -1,0 +1,20 @@
+{
+  "server": {
+    "port": 4000
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "hust",
+    "database": "gg_classroom"
+  },
+  "key": {
+    "privateKey": "37LvDSm4XvjYOh9Y",
+    "tokenExpireInSeconds": 1440
+  },
+  "pagination": {
+    "defaultPage": 1,
+    "defaultLimit": 10
+  }
+} 
